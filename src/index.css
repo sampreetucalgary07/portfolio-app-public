@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap");
+body {
+  margin: 0;
+  font-family: "Raleway", serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(
+    to right,
+    rgb(10, 10, 35),
+    rgb(20, 0, 50),
+    rgb(50, 0, 100)
+  );
+
+  /* padding-top: 120px; Adjust based on your navbar height */
+
+  /* background-image: linear-gradient(to left, rgb(34, 49, 63), rgb(20, 32, 54)); */
+}
